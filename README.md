@@ -1,8 +1,8 @@
-# Morpheus HOL Python Module
+# Morpheus Python Module
 
 ## Installation
 
-`pip install git+http://bitbucket.titra.local/scm/titra/pymorphapi.git`
+`pip install pymorphapi`
 
 ## Usage 
 
